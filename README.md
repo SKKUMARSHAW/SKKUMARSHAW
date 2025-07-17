@@ -1,6 +1,6 @@
 👋 Hi, I’m @SKKUMARSHAW
 
-👀 I’m passionate about Data Analytics, Business Intelligence, and Data-Driven Decision Making
+👀 I’m passionate about Data Analytics,Data Science, Business Intelligence, and Data-Driven Decision Making
 
 🌱 I’m currently sharpening my skills in SQL, Python (Pandas, NumPy), Power BI, Tableau, and Machine Learning
 
