@@ -1,12 +1,43 @@
-👋 Hi, I’m @SKKUMARSHAW
+# 👋 Hi, I'm @SKKUMARSHAW
 
-👀 I’m passionate about Data Analytics,Data Science, Business Intelligence, and Data-Driven Decision Making
+### 📊 Aspiring Data Analyst | Data Science Enthusiast | Machine Learning
 
-🌱 I’m currently sharpening my skills in SQL, Python (Pandas, NumPy), Power BI, Tableau, and Machine Learning
+I'm passionate about **Data Analytics, Data Science, Business Intelligence, and Machine Learning**. I enjoy working with data to uncover meaningful insights, identify patterns, solve business problems, and support data-driven decision-making.
 
-💞️ I’m looking to collaborate on data analytics projects, dashboard designs, and predictive modeling challenges
+### 🛠️ Technical Skills
 
-📫 You can reach me at [subhamsk620@gmail.com] 
+- **Programming Languages:** Python, Java
+- **Data Analysis:** Microsoft Excel, Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Business Intelligence:** Power BI
+- **Database Management:** SQL, MySQL
+- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering
+- **Tools & Technologies:** Jupyter Notebook, VS Code, Git, GitHub
+
+### 📚 Currently Learning
+- Advanced SQL and Python for Data Analysis
+- Machine Learning Algorithms and Model Optimization
+- Power BI, DAX, and Interactive Dashboards
+- Exploratory Data Analysis (EDA) and Statistical Analysis
+- Advanced Excel for Data Analysis and Reporting
+
+### 🚀 Projects & Interests
+- Exploratory Data Analysis and Data Visualization
+- Predictive Modeling and Machine Learning
+- Customer Churn Analysis
+- Heart Disease Prediction
+- Business Intelligence Dashboards
+- Excel-Based Data Analysis and Reporting
+- Data-Driven Business Problem Solving
+
+### 🤝 Let's Collaborate!
+I'm interested in collaborating on Data Analytics projects, Machine Learning applications, Business Intelligence dashboards, and real-world data science challenges.
+
+### 📫 Connect With Me
+- **Email:** subhamsk620@gmail.com , subhamshaw6202795590@gmail.com
+- **GitHub:** [@SKKUMARSHAW](https://github.com/SKKUMARSHAW)
+
+💡 *Turning Data into Insights and Insights into Decisions!*
 
 <!---
 SKKUMARSHAW/SKKUMARSHAW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
