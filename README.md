@@ -6,13 +6,14 @@ I'm passionate about **Data Analytics, Data Science, Business Intelligence, and 
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:** Python, Java
+- **Programming Languages:** Python
 - **Data Analysis:** Microsoft Excel, Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
 - **Business Intelligence:** Power BI
-- **Database Management:** SQL, MySQL
+- **Database Management:** SQL, MySQL, NOSQL
 - **Machine Learning:** Scikit-learn, Regression, Classification, Clustering
 - **Tools & Technologies:** Jupyter Notebook, VS Code, Git, GitHub
+- **Deep Learning:** TensorFlow, Neural Networks, CNN
 
 ### 📚 Currently Learning
 - Advanced SQL and Python for Data Analysis
